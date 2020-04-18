@@ -1,0 +1,11 @@
+body{
+    background-color: teal;
+}
+.carousel {
+    position: relative;
+    width: 75%;
+    margin: auto;
+}
+.carousel img{
+    width: 50%;
+}
